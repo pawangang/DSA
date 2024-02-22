@@ -1,6 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World" << std::endl;
+    int x;
+    cout <<"Hello World" << endl;
+    cin >>x;
+    cout<<x;
 }
