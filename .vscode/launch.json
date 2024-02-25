@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/pawan/OneDrive/Desktop/Cplusplus/DSA",
-      "program": "c:/Users/pawan/OneDrive/Desktop/Cplusplus/DSA/build/Debug/outDebug",
+      "cwd": "C:/Github/DSA",
+      "program": "C:/Github/DSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
